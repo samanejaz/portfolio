@@ -1,3 +1,5 @@
+Description:
 - Project_1: The FIFA World Cup 2026 Player Performance Dataset is a comprehensive collection of player statistics, match events, and performance metrics gathered throughout the tournament. In Project_1 we try to predict best performer using this data.
 - Project_2: This dataset presents a high-granularity structured reconstruction of BMW Group global deliveries, premium segment share, EV penetration, and macroeconomic indicators from 2018–2025. In Project_2 we try to get Exploratory Analysis using this data.
+- Project_3: The UNSW-NB15 dataset was generated in the Cyber Range Lab at UNSW Canberra with the IXIA PerfectStorm tool. In Project_3 we will try to predict intrusion-detection.
 - Project_4: Immigration to Canada from 1980 to 2013  dataset contains annual data on the flows of international immigrants as recorded by the countries of destination. In Project_4 we try to get Visual Analysis of immigration rate to Canada using this data.
